@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "Digite dois números:"
 read num1
 read num2
